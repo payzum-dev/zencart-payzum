@@ -1,0 +1,14 @@
+{
+    "name": "payzum/zencart-gateway",
+    "description": "Payzum crypto payment gateway for Zen Cart. Not published to Packagist — vendor/ ships with the plugin.",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.1",
+        "payzum/payzum-php": "^0.1"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true
+    }
+}
