@@ -36,7 +36,11 @@ custody. No chargebacks, no card networks, no PCI surface.
 
 ## Installation
 
-Copy the repository's files into your Zen Cart root (they follow the standard
+**From the release zip (recommended).** Download
+[`payzum-zencart-1.0.0.zip`](https://github.com/payzum-dev/zencart-payzum/releases/latest) and unzip
+it at your Zen Cart root — the archive already mirrors the layout below.
+
+**From a clone.** Copy the repository's files into your Zen Cart root (they follow the standard
 Zen Cart drop-in layout):
 
 - `includes/modules/payment/payzum.php` — the payment module
